@@ -1,9 +1,0 @@
-/* Mantener el ancho de PC */
-body {
-  min-width: 324px; /* Simula el ancho de una PC */
-  overflow-x: auto;  /* Permite desplazamiento si es necesario */
-}
-
-.container {
-  width: 724px !important; /* Mantiene el tamaño de PC */
-}
